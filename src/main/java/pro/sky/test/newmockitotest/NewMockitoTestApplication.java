@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NewMockitoTestApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NewMockitoTestApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(NewMockitoTestApplication.class, args);
+    }
 
 }
